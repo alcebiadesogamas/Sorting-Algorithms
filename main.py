@@ -11,7 +11,6 @@ while flag:
 print(f'{"Bubble Sort":#^30}')
 print(alvo)
 
-############################################
 
 for i in range(1,len(alvo)):
     indexMenor = i-1
